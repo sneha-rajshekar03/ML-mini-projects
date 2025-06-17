@@ -1,23 +1,23 @@
-# 🤖 ML Mini Projects
+#  ML Mini Projects
 
 This repository contains multiple hands-on **machine learning mini projects** implemented in a single Jupyter Notebook using Python. It is designed for learners exploring core ML concepts like supervised learning, data preprocessing, model training, and evaluation.
 
 ---
 
-## 📚 Projects Covered
+##  Projects Covered
 
 Inside `ML-mini-projects.ipynb`, the following topics are implemented:
 
-- ✅ Data Preprocessing (Handling null values, encoding, normalization)
-- ✅ Classification Algorithms:
+-  Data Preprocessing (Handling null values, encoding, normalization)
+-  Classification Algorithms:
   - Logistic Regression
   - Decision Tree Classifier
   - Random Forest Classifier
-- ✅ Evaluation Metrics:
+-  Evaluation Metrics:
   - Accuracy
   - Confusion Matrix
-- ✅ Dataset used: [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris) *(via sklearn)*
-- ✅ Visualizations using `matplotlib` and `seaborn`
+-  Dataset used: [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris) *(via sklearn)*
+-  Visualizations using `matplotlib` and `seaborn`
 
 ---
 
